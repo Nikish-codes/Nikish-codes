@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on: A Reddit Idea Finder that scrapes subreddits to find real problems that people are facing .<br>👯 I’m looking to collaborate on: Weird/fun/actually-useful web projects, Crazy Open source projects and internship opportunities where I can break (and fix) things and grow!<br>🤝 I’m looking for help with: Mastering system architecture and best practices for deploying scalable apps on the Cloud.<br>🌱 I’m currently learning: The full stack of Web Development, Deep Diving into Python, Cloud Computing, and Machine Learning.<br>💬 Ask me about: How to turn procrastination into semi functional web apps.<br>⚡ Fun fact: I can't seem to put all my effort into learning a single thing, I always keep getting sidelined by something more interesting.
+🔭 I’m currently working on: A Reddit Idea Finder that scrapes subreddits to find real problems that people are facing.<br>👯 I’m looking to collaborate on: Weird/fun/actually-useful web projects, Crazy Open source projects and internship opportunities where I can break (and fix) things and grow!<br>🤝 I’m looking for help with: Mastering system architecture and best practices for deploying scalable apps on the Cloud.<br>🌱 I’m currently learning: The full stack of Web Development, Deep Diving into Python, Cloud Computing, and Machine Learning.<br>💬 Ask me about: How to turn procrastination into semi functional web apps.<br>⚡ Fun fact: I can't seem to put all my effort into learning a single thing, I always keep getting sidelined by something more interesting.
 
 
 ## 🌐 Socials:
